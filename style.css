@@ -26,5 +26,10 @@
     border-style: solid;
 }
 .panel {
-    width:75%;
+    width:100%;
+}
+.compare_text {
+    font-style: italic;
+    text-align: center;
+    padding-bottom: 5%;
 }
