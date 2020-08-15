@@ -1,0 +1,29 @@
+/*styling*/
+/*navbar styling*/
+.navbar-brand {
+    padding: 10px;
+    margin-left: 5%;
+}
+.navbar-collapse{
+    position: absolute;
+    right: 5%;
+}
+.content {
+    width: 75%;
+    margin: 20px auto;
+    padding: 1em;
+}
+.main-image {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    float: left;
+}
+.thumbnail {
+    width:70%;
+}
+.title {
+    font-weight: bolder;
+    padding-top: 10px;
+    
+}
