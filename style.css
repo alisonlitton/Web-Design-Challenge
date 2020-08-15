@@ -16,7 +16,7 @@
     float: left;
 }
 .thumbnail {
-    width:70%;
+    width: 75%;
 }
 .title {
     font-weight: bolder;
@@ -32,4 +32,7 @@
     font-style: italic;
     text-align: center;
     padding-bottom: 5%;
+}
+.title-viz {
+    font-weight: bold;
 }
