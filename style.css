@@ -36,3 +36,10 @@
 .title-viz {
     font-weight: bold;
 }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+    float: center;
+}
