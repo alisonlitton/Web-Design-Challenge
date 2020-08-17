@@ -1,3 +1,6 @@
+
+Please visit https://alisonlitton.github.io/Web-Design-Challenge.github.io/ full website!
+
 # Web-Design-Challenge
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
